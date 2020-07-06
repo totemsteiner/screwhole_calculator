@@ -1,3 +1,5 @@
+#Version 1.0
+#Berechnen von Bohrloechern mit gegebener Unterkante
 #wenn Display = x Zoll, dann y Vesa Maße 200x200 oder 400x400
 #wenn chief-Halterung in Center position (Diamond kerbe in halter), dann ist Center zu oberem Loch IMMER 203.2mm
 #Beispiel:
